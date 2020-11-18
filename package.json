@@ -1,0 +1,24 @@
+{
+  "name": "primer-ts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smockle/primer-ts-demo.git"
+  },
+  "author": "Clay Miller <clay@smockle.com> (https://www.smockle.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@primer/components": "git://github.com/primer/components.git#17bb0b8a79cbfe6b205e73343b862de88cc17ab7",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
